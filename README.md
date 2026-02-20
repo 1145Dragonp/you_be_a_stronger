@@ -9,4 +9,6 @@
 每击杀一个生物会在聊天框输出：* 你变的更强了<br>
 随着击杀生物数量越多，会提高生命值上限，和基础攻击伤害<br>
 如果想清除效果可以输入命令/function ctrl_you ctrl,然后点击放弃就可以了 
-
+<br>
+<br>
+<img scr="https://1145dragonp.github.io/you_be_a_stronger/img/img0.png">
