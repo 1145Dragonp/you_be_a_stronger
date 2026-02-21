@@ -14,4 +14,6 @@
 <img src="https://1145dragonp.github.io/you_be_a_stronger/img/img1.png"><br>
 <br>
 <br>
+<br>
+<h2>击杀任何生物提示 *你变得更强了<h2/><br>
 <img src="https://1145dragonp.github.io/you_be_a_stronger/img/img0.png">
