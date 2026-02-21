@@ -10,7 +10,7 @@
 随着击杀生物数量越多，会提高生命值上限，和基础攻击伤害<br>
 如果想清除效果可以输入命令/function ctrl_you:ctrl<br><br>
 <img src="https://1145dragonp.github.io/you_be_a_stronger/img/img2.png"><br>
-然后点击放弃就可以了<br><br>
+然后点击放弃就可以了,但是要注意自己的有没有开始亡不掉落<br><br>
 <img src="https://1145dragonp.github.io/you_be_a_stronger/img/img1.png"><br>
 <br>
 <br>
