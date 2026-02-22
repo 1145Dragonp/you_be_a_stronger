@@ -1,0 +1,16 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:netherite_sword"
+      },
+      "title": "*你变得更强了",
+      "description": "成功变强了一次",
+      "frame": "task"
+    },
+    "parent": "yuo_be_a_strong:root",
+    "criteria": {
+      "manual_only": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

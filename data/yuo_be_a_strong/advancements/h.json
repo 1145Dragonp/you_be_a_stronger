@@ -1,0 +1,16 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier" 
+      },
+      "title": "*百毒不侵",
+      "description": "*百毒不侵",
+      "frame": "challenge"
+    },
+    "parent": "yuo_be_a_strong:zq",
+    "criteria": {
+      "manual_only": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

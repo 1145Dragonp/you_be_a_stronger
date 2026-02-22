@@ -1,0 +1,16 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_chestplate"
+      },
+      "title": "*体质增强",
+      "description": "*体质增强",
+      "frame": "task"
+    },
+    "parent": "yuo_be_a_strong:root",
+    "criteria": {
+      "manual_only": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
